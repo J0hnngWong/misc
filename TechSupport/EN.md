@@ -1,8 +1,8 @@
-# Readdy? Technical Support Documentation
+# Toost Technical Support Documentation
 
 ## Application Overview
 
-Readdy? is a utility application that combines floating clock, video generation, and other practical features. This document provides technical support information to help users resolve issues they may encounter while using the application.
+Toost is a utility application that combines floating clock, video playing, number base conversion, base64 conversion, and other practical features. This document provides technical support information to help users resolve issues they may encounter while using the application.
 
 ## Key Features
 
@@ -53,6 +53,12 @@ We value user privacy. For detailed information about how we collect, use, and p
 - Implemented basic floating clock functionality
 - Support for English and Simplified Chinese
 
+### Version 1.1.0
+- Support color conversion
+- Support pasteboard looking
+- Support number base conversion
+- Support base 64 conversion
+
 ---
 
-Thank you for choosing Readdy?. We are committed to continuously improving your app experience!
+Thank you for choosing Toost. We are committed to continuously improving your app experience!
