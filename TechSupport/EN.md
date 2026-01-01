@@ -1,8 +1,8 @@
-# Toost Technical Support Documentation
+# Tooast Technical Support Documentation
 
 ## Application Overview
 
-Toost is a utility application that combines floating clock, video playing, number base conversion, base64 conversion, and other practical features. This document provides technical support information to help users resolve issues they may encounter while using the application.
+Tooast is a utility application that combines floating clock, video playing, number base conversion, base64 conversion, and other practical features. This document provides technical support information to help users resolve issues they may encounter while using the application.
 
 ## Key Features
 
@@ -61,4 +61,4 @@ We value user privacy. For detailed information about how we collect, use, and p
 
 ---
 
-Thank you for choosing Toost. We are committed to continuously improving your app experience!
+Thank you for choosing Tooast. We are committed to continuously improving your app experience!
